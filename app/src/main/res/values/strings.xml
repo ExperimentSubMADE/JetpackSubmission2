@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetpackSubmission</string>
+
+    <string name="tablayout_title_movies">Movies</string>
+    <string name="tablayout_title_tvshow">TV Show</string>
+    <string name="moviradar_text">Moviradar</string>
+    <string name="detail_content_picture">Content Picture</string>
+
+    <string name="percentage_text">%</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
